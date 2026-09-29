@@ -1,0 +1,8 @@
+{
+  "name": "MPLADS SENTINEL 360",
+  "description": "AI-powered public-project monitoring and explainable risk intelligence platform for MPLADS (MoSPI SIH26102).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

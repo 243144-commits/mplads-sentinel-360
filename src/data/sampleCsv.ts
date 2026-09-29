@@ -1,0 +1,8 @@
+export const SAMPLE_MPLADS_CSV = `work_code,title,category,state,district,block,mp_name,sanction_year,sanctioned_amount_lakhs,expenditure_lakhs,physical_progress_pct,implementing_agency,contractor_name,latitude,longitude
+MP-20001,Construction of Concrete Road connecting Gandhi Chowk to Primary Health Centre,Rural Roads & CC Roads,Maharashtra,Pune,Haveli,Shri Rajeshwar Rao MP,2024-25,32.0,28.5,90,Zilla Parishad Rural Engineering Cell,Sahyadri Builders,18.5241,73.8612
+MP-20002,Deep Borewell Installation and Solar Powered Pump at Ward 4,Drinking Water,Maharashtra,Pune,Khed,Shri Rajeshwar Rao MP,2024-25,18.5,18.0,95,Public Health Engineering Dept (PHED),Jalshakti Infra,18.6120,73.8814
+MP-20003,Construction of Anganwadi Centre Building with Child Sanitation Facility,Education & Anganwadi,Uttar Pradesh,Varanasi,Sevapuri,Shri Anirudh Pratap Singh MP,2024-25,16.2,14.0,85,District Rural Development Agency (DRDA),Awadh Contractors,25.3214,82.9810
+MP-20004,High Cost Community Hall with Non-Standard Marble and Panelling,Sanitation & Community Halls,Uttar Pradesh,Barabanki,Ramnagar,Shri Anirudh Pratap Singh MP,2024-25,92.0,85.0,45,District Rural Development Agency (DRDA),Apex Infra Ventures,26.9450,81.1920
+MP-20005,Duplicate CC Road connecting Gandhi Chowk to Primary Health Centre (Identical),Rural Roads & CC Roads,Maharashtra,Pune,Haveli,Shri Rajeshwar Rao MP,2024-25,31.5,12.0,30,Public Works Department (PWD),Sahyadri Builders,18.5245,73.8618
+MP-20006,Solar High Mast Lighting System at 6 Crossroads,Solar & Street Lighting,Karnataka,Mysuru,Nanjangud,Shri Arvind K. Patil MP,2024-25,24.0,24.0,100,Rural Water Supply & Sanitation Board,Surya Kiran Renewables,12.2890,76.6412
+`;
